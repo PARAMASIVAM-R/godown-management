@@ -1,0 +1,41 @@
+{
+    "godownIncharge": {
+      "id": "GODOWN101",
+      "name": "Rajesh",
+      "location": "Chennai",
+      "godownname": "TNCSC-Godown-01"
+    },
+    "products": [
+      {
+        "productName": "Rice",
+        "weight": 50,
+        "goodsInCount": 100,
+        "goodsInDate": "2025-03-18"
+      },
+      {
+        "productName": "Wheat",
+        "weight": 50,
+        "goodsInCount": 80,
+        "goodsInDate": "2025-03-15"
+      },
+      {
+        "productName": "Sugar",
+        "weight": 25,
+        "goodsInCount": 60,
+        "goodsInDate": "2025-03-10"
+      },
+      {
+        "productName": "Oil",
+        "weight": 10,
+        "goodsInCount": 120,
+        "goodsInDate": "2025-03-12"
+      },
+      {
+        "productName": "Salt",
+        "weight": 1,
+        "goodsInCount": 200,
+        "goodsInDate": "2025-03-09"
+      }
+    ]
+  }
+  

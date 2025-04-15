@@ -1,0 +1,132 @@
+{
+    "pdsIncharge": {
+      "id": "PDS301",
+      "name": "Vikram",
+      "district": "Chennai",
+      "pdslocation": "T. Nagar",
+      "godownname": "TNCSC-Godown-01"
+    },
+    "products": [
+      {
+        "productName": "Rice",
+        "weight": 50,
+        "goodsInCount": 100,
+        "goodsOutCount": 20,
+        "goodsInDate": "2025-03-18",
+        "goodsOutDate": "2025-03-20"
+      },
+      {
+        "productName": "Wheat",
+        "weight": 50,
+        "goodsInCount": 80,
+        "goodsOutCount": 10,
+        "goodsInDate": "2025-03-15",
+        "goodsOutDate": "2025-03-19"
+      },
+      {
+        "productName": "Sugar",
+        "weight": 25,
+        "goodsInCount": 60,
+        "goodsOutCount": 5,
+        "goodsInDate": "2025-03-10",
+        "goodsOutDate": "2025-03-14"
+      },
+      {
+        "productName": "Oil",
+        "weight": 10,
+        "goodsInCount": 120,
+        "goodsOutCount": 30,
+        "goodsInDate": "2025-03-12",
+        "goodsOutDate": "2025-03-16"
+      },
+      {
+        "productName": "Salt",
+        "weight": 1,
+        "goodsInCount": 200,
+        "goodsOutCount": 50,
+        "goodsInDate": "2025-03-09",
+        "goodsOutDate": "2025-03-13"
+      },
+      {
+        "productName": "Dal",
+        "weight": 20,
+        "goodsInCount": 90,
+        "goodsOutCount": 15,
+        "goodsInDate": "2025-03-14",
+        "goodsOutDate": "2025-03-18"
+      },
+      {
+        "productName": "Tea",
+        "weight": 5,
+        "goodsInCount": 50,
+        "goodsOutCount": 10,
+        "goodsInDate": "2025-03-17",
+        "goodsOutDate": "2025-03-21"
+      },
+      {
+        "productName": "Coffee",
+        "weight": 5,
+        "goodsInCount": 40,
+        "goodsOutCount": 8,
+        "goodsInDate": "2025-03-11",
+        "goodsOutDate": "2025-03-15"
+      },
+      {
+        "productName": "Soap",
+        "weight": 2,
+        "goodsInCount": 150,
+        "goodsOutCount": 25,
+        "goodsInDate": "2025-03-20",
+        "goodsOutDate": "2025-03-24"
+      },
+      {
+        "productName": "Toothpaste",
+        "weight": 1,
+        "goodsInCount": 100,
+        "goodsOutCount": 20,
+        "goodsInDate": "2025-03-16",
+        "goodsOutDate": "2025-03-19"
+      },
+      {
+        "productName": "Atta",
+        "weight": 50,
+        "goodsInCount": 70,
+        "goodsOutCount": 10,
+        "goodsInDate": "2025-03-08",
+        "goodsOutDate": "2025-03-12"
+      },
+      {
+        "productName": "Ragi",
+        "weight": 50,
+        "goodsInCount": 90,
+        "goodsOutCount": 18,
+        "goodsInDate": "2025-03-13",
+        "goodsOutDate": "2025-03-17"
+      },
+      {
+        "productName": "Jaggery",
+        "weight": 25,
+        "goodsInCount": 60,
+        "goodsOutCount": 12,
+        "goodsInDate": "2025-03-10",
+        "goodsOutDate": "2025-03-14"
+      },
+      {
+        "productName": "Milk Powder",
+        "weight": 2,
+        "goodsInCount": 80,
+        "goodsOutCount": 15,
+        "goodsInDate": "2025-03-12",
+        "goodsOutDate": "2025-03-16"
+      },
+      {
+        "productName": "Spices",
+        "weight": 10,
+        "goodsInCount": 100,
+        "goodsOutCount": 25,
+        "goodsInDate": "2025-03-09",
+        "goodsOutDate": "2025-03-13"
+      }
+    ]
+  }
+  
